@@ -1,3 +1,4 @@
+<p align="center">
 <img src="picture/seed.png" width="600" alt="seed">
 <p align="center">
 <img src="picture/g1.png" height=450 alt="Group">
